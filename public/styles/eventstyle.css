@@ -1,0 +1,72 @@
+body,html
+{
+    background-color: #581908;
+    height:100%;
+}
+h3
+{
+  padding-left: 140px;
+}
+h2
+{
+  text-decoration: none;
+  font: "Helvetica Neue";
+}
+a
+{
+  text-decoration: none;
+  font: "Helvetica Neue";
+  padding:10px;
+  color:#eaf4f4;
+
+}
+a:hover
+{
+  text-decoration: none;
+  color:#581908;
+}
+.unit
+{
+  width:auto;  
+
+}
+
+
+#allcards
+{
+  width:80vw;
+  float:right;
+}
+
+#header
+{
+  margin-left: 100px;
+  font:"Helvetica Neue";
+  padding: 3vh;
+  background-color:#F9F7F7;
+}
+#navv
+{
+  padding: 20px;
+  background-color:#c27a54;
+  float:left;
+  width:15%;
+  height:100%;
+  position:fixed;
+  overflow: auto;
+ 
+}
+
+.rows
+{
+  width:80%;
+  float:right;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+
+.col-4
+{
+  margin-top: 4%;
+
+}

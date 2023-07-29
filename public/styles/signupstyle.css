@@ -1,0 +1,32 @@
+html,body
+{
+    background-color:#581908;
+    margin-left: 25%;
+    margin-right: 25%;
+
+    border-radius:30px;
+}
+
+.container
+{
+  margin-bottom: 10px;
+}
+@media(max-width: 800px)
+{
+    html 
+    {
+        height: 0px;
+        width: 0px;
+        background-color: white;
+      
+    }
+ 
+    .container{
+        margin-top:0%;
+        margin-bottom:0%;
+        margin-left:10%;
+       
+        border-radius:0px;
+    }
+    
+}
